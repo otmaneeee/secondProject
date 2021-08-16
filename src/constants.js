@@ -17,4 +17,13 @@ export const dropDownProps = {
       { id: 2, action: "Tanger", link: "#Tanger" },
     ],
   },
+  team: {
+    color: "primary",
+    text: "What is your favorite team ?",
+    options: [
+      { id: 0, action: "WAC", link: "#WAC" },
+      { id: 1, action: "RCA", link: "#RCA" },
+      { id: 2, action: "FAR", link: "#FAR" },
+    ],
+  },
 };

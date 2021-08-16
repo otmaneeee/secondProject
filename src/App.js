@@ -16,7 +16,7 @@ function App() {
       />
       <br></br>
       <br></br>
-      <CustomDropDown {...dropDownProps.city} />
+      <CustomDropDown {...dropDownProps.team} />
     </div>
   );
 }
